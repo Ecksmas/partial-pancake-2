@@ -1,0 +1,3 @@
+C:/Coding/C C++/partial-pancake-2/build/CMakeFiles/FileOrganizationTool.dir
+C:/Coding/C C++/partial-pancake-2/build/CMakeFiles/ALL_BUILD.dir
+C:/Coding/C C++/partial-pancake-2/build/CMakeFiles/ZERO_CHECK.dir

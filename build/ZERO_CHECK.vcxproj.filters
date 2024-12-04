@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Coding\C C++\partial-pancake-2\build\CMakeFiles\7ae3fa524ab0c7b13fb05773a3678476\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{974497FF-F8D8-312B-981F-7286AB210E64}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

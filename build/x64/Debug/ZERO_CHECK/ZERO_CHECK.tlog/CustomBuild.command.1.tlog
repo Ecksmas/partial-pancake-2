@@ -1,0 +1,10 @@
+^C:\CODING\C C++\PARTIAL-PANCAKE-2\BUILD\CMAKEFILES\7AE3FA524AB0C7B13FB05773A3678476\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Coding/C C++/partial-pancake-2" "-BC:/Coding/C C++/partial-pancake-2/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Coding/C C++/partial-pancake-2/build/FileOrganizationTool.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.10)
+
+# Set the project name
+project(FileOrganizationTool)
+
+# Set the C++ standard
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
+# Add the executable
+add_executable(FileOrganizationTool main.cpp directory_utils.cpp file_utils.cpp)
+
+# Include directories
+target_include_directories(FileOrganizationTool PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})

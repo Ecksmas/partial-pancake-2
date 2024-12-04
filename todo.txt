@@ -1,0 +1,68 @@
+Core File Operations
+
+    List Directory Contents
+        Display files and folders in the current directory.
+        Handle pagination for large directories.
+
+    Navigate Directories
+        Change the current directory (e.g., cd functionality).
+        Provide navigation shortcuts like .. (parent directory).
+
+    Rename Files
+        Rename all files in a directory to a uniform format.
+        Append custom extensions to filenames.
+
+    Batch Rename with Regex
+        Apply regex patterns to rename files partially (e.g., search and replace text in filenames).
+
+    File Sorting
+        Sort files by name, size, date modified, or type.
+        Option to organize files into subfolders based on criteria (e.g., by file type).
+
+    File Filtering
+        Filter files displayed based on patterns or extensions.
+
+    Copy/Move Files
+        Copy or move files between directories.
+
+    Delete Files
+        Delete selected files (with a confirmation prompt).
+
+TUI Features
+
+    Menu System
+        Create an intuitive menu for selecting operations (e.g., list files, rename, navigate).
+
+    Input Handling
+        Handle user inputs for commands and options.
+
+    Preview Changes
+        Show a preview of renaming or moving operations before applying them.
+
+    Error Handling & Confirmation
+        Display errors (e.g., invalid directory paths, regex issues).
+        Confirm actions like deleting files or overwriting existing files.
+
+Utility Functions
+
+    Path Validation
+        Check if a path is valid and accessible.
+
+    File Metadata Retrieval
+        Retrieve and display file properties (e.g., size, date modified).
+
+    Logging
+        Log operations for review or undo functionality.
+
+Additional Enhancements (Optional)
+
+    Undo Last Action
+        Allow reverting the most recent operation (rename, move, delete).
+
+    Configuration File
+        Allow saving user preferences (e.g., default sorting order).
+
+    Multi-threading
+        Optimize operations like renaming or moving files in large directories.
+
+Would you like to focus on the core functionality first or implement the TUI and basic navigation as a starting point?

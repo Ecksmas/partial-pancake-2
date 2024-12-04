@@ -1,0 +1,73 @@
+1.
+I am going to create a app with the help of you, the app will be developed in C/C++ and I am stuyding at a vocational college.
+
+This is the app initial idea of the app " File organization tool - with TUI -Text User Interface - that allows moving between folders, renaming all files in a folder, partial renaming of files according to for example a regex pattern or with an extension concatenated to the existing name."
+
+Please start of by creating a list of functions that need to be implemented for this app to work.
+
+2.
+Please create code and files for these functions: List Directory Contents Display files and folders in the current directory. Handle pagination for large directories.
+
+Navigate Directories
+    Change the current directory (e.g., cd functionality).
+    Provide navigation shortcuts like .. (parent directory).
+
+Rename Files
+    Rename all files in a directory to a uniform format.
+    Append custom extensions to filenames.
+
+Batch Rename with Regex
+    Apply regex patterns to rename files partially (e.g., search and replace text in filenames).
+
+File Sorting
+    Sort files by name, size, date modified, or type.
+    Option to organize files into subfolders based on criteria (e.g., by file type).
+
+File Filtering
+    Filter files displayed based on patterns or extensions.
+
+Copy/Move Files
+    Copy or move files between directories.
+
+Delete Files
+    Delete selected files (with a confirmation prompt).
+
+3.
+Help me create a cmake for this project
+
+4.
+Help me create implementations for these functions:
+
+void renameFiles() {
+    // Implementation for renaming files
+}
+
+// Prompt 2
+void batchRenameWithRegex() {
+    // Implementation for batch renaming with regex
+}
+
+// Prompt 2
+void fileSorting() {
+    // Implementation for sorting files
+}
+
+// Prompt 2
+void fileFiltering() {
+    // Implementation for filtering files
+}
+
+// Prompt 2
+void copyMoveFiles() {
+    // Implementation for copying/moving files
+}
+
+// Prompt 2
+void deleteFiles() {
+    // Implementation for deleting files
+}
+
+5.
+create a readme for the project with indepth instructions of how you are supposed to use each function.
+
+6.
