@@ -33,3 +33,6 @@
 
 # Ignore other build directories
 *.build
+/build/
+/build/*.*
+!/build/**/*.bin
