@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/partial-pancake-2"
+			"value" : "C:/Program Files (x86)/FileOrganizationTool"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1055,42 +1055,6 @@
 		},
 		{
 			"name" : "FileOrganizationTool_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Coding/C C++/partial-pancake-2"
-		},
-		{
-			"name" : "partial-pancake-2_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Coding/C C++/partial-pancake-2/build"
-		},
-		{
-			"name" : "partial-pancake-2_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "partial-pancake-2_SOURCE_DIR",
 			"properties" : 
 			[
 				{
