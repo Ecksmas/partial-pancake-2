@@ -71,3 +71,4 @@ void deleteFiles() {
 create a readme for the project with indepth instructions of how you are supposed to use each function.
 
 6.
+create a readme for the project
